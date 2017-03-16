@@ -1,9 +1,2 @@
-# venv
-bin/
-lib/
-include/
-pyvenv.cfg
-pip-selfcheck.json
-
-# python
+venv/
 *__pycache__*
